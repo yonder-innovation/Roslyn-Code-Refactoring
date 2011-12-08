@@ -1,0 +1,5 @@
+c:\users\ana\documents\visual studio 2010\Projects\test_roslyn\test_roslyn\bin\Debug\test_roslyn.exe
+c:\users\ana\documents\visual studio 2010\Projects\test_roslyn\test_roslyn\bin\Debug\test_roslyn.pdb
+c:\users\ana\documents\visual studio 2010\Projects\test_roslyn\test_roslyn\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ana\documents\visual studio 2010\Projects\test_roslyn\test_roslyn\obj\x86\Debug\test_roslyn.exe
+c:\users\ana\documents\visual studio 2010\Projects\test_roslyn\test_roslyn\obj\x86\Debug\test_roslyn.pdb

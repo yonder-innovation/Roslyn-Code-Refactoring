@@ -1,0 +1,16 @@
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Debug\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Debug\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Debug\CodeRefactoring1.vsix
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Debug\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Debug\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Debug\extension.vsixmanifest
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Debug\extension.vsixmanifest
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\bin\Debug\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\bin\Debug\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\bin\Debug\CodeRefactoring1.vsix
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\bin\Debug\extension.vsixmanifest
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\obj\Debug\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\obj\Debug\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\MoveMemberRefactoring\MoveMemberRefactoring\obj\Debug\extension.vsixmanifest

@@ -1,0 +1,8 @@
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Release\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Release\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Release\CodeRefactoring1.vsix
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\bin\Release\extension.vsixmanifest
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Release\CodeRefactoring1.dll
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Release\CodeRefactoring1.pdb
+C:\Users\Ana\Documents\Visual Studio 2010\Projects\CodeRefactoring1\CodeRefactoring1\obj\Release\extension.vsixmanifest

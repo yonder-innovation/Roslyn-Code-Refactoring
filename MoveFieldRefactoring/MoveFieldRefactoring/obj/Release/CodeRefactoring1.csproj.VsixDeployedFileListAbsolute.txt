@@ -1,0 +1,2 @@
+C:\Users\Ana\AppData\Local\Microsoft\VisualStudio\10.0Roslyn\Extensions\Ana\MoveMemberToParentClass\1.0\\CodeRefactoring1.dll
+C:\Users\Ana\AppData\Local\Microsoft\VisualStudio\10.0Roslyn\Extensions\Ana\MoveMemberToParentClass\1.0\\extension.vsixmanifest
